@@ -1,6 +1,6 @@
 body
 {  
-    color: darkblue;
+    color: rgb(14, 44, 23);
 
     text-align: center;
     font-family: "Arial"
@@ -9,15 +9,15 @@ body
 {
     width: 70%;
     padding: lem;
-    text-align: left;
+    text-align: center;
     border: 10px solid salmon;
     margin: 0 auto;
 }
-#container
+#container1
 {
-    width: 70%;
+    width: 50%;
     padding: lem;
-    text-align: left;
-    border: 10px solid salmon;
-    margin: 0 auto;
+    text-align: center;
+    border: 5px solid rgb(115, 23, 236);
+    margin: 100 auto;
 }
